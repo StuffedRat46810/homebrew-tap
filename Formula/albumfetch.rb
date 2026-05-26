@@ -1,8 +1,8 @@
 class Albumfetch < Formula
   desc "a CLI tool that displays random albums"
   homepage "https://github.com/StuffedRat46810/albumfetch"
-  url "https://github.com/StuffedRat46810/albumfetch/releases/download/v0.1.2/albumfetch-v0.1.2-macos.tar.gz"
-  sha256 "e3ef1334ccd756ac919554d3917fb86cb98977a58dc85a0699f0e574c06b64da"
+  url "https://github.com/StuffedRat46810/albumfetch/releases/download/v0.1.4/albumfetch-x86_64-macos-none.tar.gz"
+  sha256 "c2fd126b5b5f0c72accf6a7abf10da51a6b6abc622777ea9323083310fae1774"
   license "MIT"
 
 
